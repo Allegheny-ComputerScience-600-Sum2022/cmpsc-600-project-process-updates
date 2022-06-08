@@ -35,7 +35,7 @@ requirements, then you will see a green &#x2714; in the listing of commits in
 GitHub. If your submission does not meet the requirements, a red &#x2717; will
 appear instead. Your course  instructor will reduce a researcher's grade for
 this assignment if the red &#x2717; appears on the last commit in GitHub
-immediately before the assignment's due date on March 3, 2020 at 1:30 p.m.
+immediately before the assignment's due date on August 9, 2022 at 11:59p.
 
 Yet, if the green &#x2714; appears on the last commit in your GitHub
 repository, then you satisfied all of the main checks, thereby allowing the
